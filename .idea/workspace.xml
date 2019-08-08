@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699db8f6-8fa0-4fa1-bdf4-282743d780f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../craftable_ore_1.14" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -74,7 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1565044279290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sksksksk">
+      <created>1565045542004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565045542004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sksksksk">
+      <created>1565045571391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565045571391</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Done testing.">
+      <created>1565045642776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565045642776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,7 +112,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="f" />
     <MESSAGE value="Fixed github link." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed github link." />
+    <MESSAGE value="sksksksk" />
+    <MESSAGE value="Done testing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Done testing." />
   </component>
   <component name="masterDetails">
     <states>
